@@ -1,4 +1,4 @@
-alert("💖🌷 Celebrating you on International Women's Day! Here's to recognizing your strength, grace, and achievements. 🌸🎉 Embrace your power and continue to inspire.! 🌼💐");
+alert("💖🌷 Tomi, Happy International Women's Day! 🌸🎉 От всего сердца поздравляю тебя с 8 Марта! 🌼💐");
 async function displayBirthdayMessage() {
   try {
     const response = await fetch('assets/json/messages.json');
